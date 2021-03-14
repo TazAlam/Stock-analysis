@@ -16,3 +16,15 @@ Projects Link: https://github.com/TazAlam/Taz-Portfolio.git
 * Conducted Data Reduction techniques (PCA & FAMD) to deduce the variables of importance, to subsequently reduce noise.
 * Carried our further data-preprocessing to then create several Neural Network models (of varying depths) using NeuralNet to predict the Death Event (target variable). 
 * With the use of confusion matrices, we established that whilst first model returned ‘Test Accuracy’ of 77%, final model returned prediction accuracy on Test data of 81%.
+
+
+# Project 3 - Testing Prediction Accuracy for Shallow and Deep Neural Networks
+
+* On Python, tested the prediction accuracy of both Shallow and Deep Neural Networks when predicting the ‘Star Type’ using given data. Whilst NN's are generally used on larger datasets, the example dataset chosen was relatively small, to further test the method's efficacy.
+* Conducted Data Reduction (FAMD) to deduce the variables of importance, and further data pre-processing to ‘clean’ the data.
+* Using Tensorflow, first created & assessed a Shallow Neural Network, and then a ‘simple’ Deep Neural Network, where both models returned prediction accuracy of 90%.
+* Finally, proposed a more complex Deep Neural Network model which achieved prediction accuracy of 98%.
+
+
+
+
