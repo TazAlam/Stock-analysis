@@ -17,6 +17,14 @@ Projects Link: https://github.com/TazAlam/Taz-Portfolio.git
 * Carried our further data-preprocessing to then create several Neural Network models (of varying depths) using NeuralNet to predict the Death Event (target variable). 
 * With the use of confusion matrices, we established that whilst first model returned ‘Test Accuracy’ of 77%, final model returned prediction accuracy on Test data of 81%.
 
+[Histogram - Correlation between Age and Blood Pressure.pdf](https://github.com/TazAlam/Taz-Portfolio/files/6137328/Hist.-.Age.and.blood.pressure.pdf)
+
+[famd - Variable contribution across dimensions.pdf](https://github.com/TazAlam/Taz-Portfolio/files/6137332/famd.-.variable.contribution.across.dimensions.-.output.pdf)
+
+[Visualisation - Most successful Neural Network Model](https://github.com/TazAlam/Taz-Portfolio/files/6137334/NN.2.-.Vis.pdf)
+
+
+
 
 # Project 3 - Testing Prediction Accuracy for Shallow and Deep Neural Networks
 
